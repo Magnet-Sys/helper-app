@@ -1,4 +1,4 @@
-# helper-app # Project
+# helper-app
 
 Independent contractor application.
 
